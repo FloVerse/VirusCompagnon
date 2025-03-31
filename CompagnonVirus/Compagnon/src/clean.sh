@@ -1,0 +1,12 @@
+rm chronometre
+rm .chronometre.old
+rm convertisseur
+rm .convertisseur.old
+rm informations
+rm .informations.old
+rm chiffrement_vigenere
+rm .chiffrement_vigenere.old
+rm dechiffrement_vigenere
+rm .dechiffrement_vigenere.old
+rm mediaplayer
+rm .mediaplayer.old
